@@ -1,0 +1,15 @@
+.ab_bgimg{
+    background-image: url("Default.jpg");
+    height: 689px;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.ab_txtwrap{
+    width:775px;
+    color: white;
+    font-family: cursive;
+    font-size: 20px;
+    margin-left: 50px;
+    padding-top: 66px;
+}

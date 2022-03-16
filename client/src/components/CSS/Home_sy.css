@@ -1,0 +1,56 @@
+.hm_bgimg {
+    /* background-color: greenyellow; */
+    background-image: url("Library_BGI.jpg");
+    background-size: cover;
+    height: 644px;
+    background-attachment: fixed;
+}
+.hm_align{
+    text-align: center;
+    background-color: wheat;
+  width: 700px;
+  border: 10px solid green;
+  padding: 50px;
+  margin: 20px;
+  /* text-align: left; */
+  font-size: 20px;
+  margin: 0 auto;
+}
+
+.hm_button {
+    display: inline-block;
+    border-radius: 4px;
+    background-color: #f4511e;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 25px;
+    /* padding: 20px; */
+    width: 110px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+    height:42px;
+    width:230px;
+}
+
+.hm1_button {
+    display: inline-block;
+    border-radius: 4px;
+    background-color: #f4511e;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 25px;
+    /* padding: 20px; */
+    width: 110px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+    height:42px;
+    width:130px;
+}
+
+.hm_drp{
+    width: 220px;
+}

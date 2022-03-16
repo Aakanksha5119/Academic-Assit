@@ -1,0 +1,45 @@
+.lgn_bgimg {
+    /* background-color: greenyellow; */
+    background-image: url("Login.jpg");
+    background-size: cover;
+    height: 644px;
+    /* width: 1536px; */
+    background-attachment: fixed;
+}
+
+.lgn_table{
+    width: 400px;
+    margin-left: 988px;
+    padding-top: 100px;
+}
+.lgn_button {
+    display: inline-block;
+    border-radius: 4px;
+    background-color: #f4511e;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 25px;
+    /* padding: 20px; */
+    width: 110px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+    height:42px;
+    width:130px;
+}
+
+.lgn_ip{
+    width: 250px;
+    /* padding: 12px 20px; */
+    margin: 8px 0;
+    display: inline-block;
+    /* border: 1px solid #ccc; */
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.lgn_lb{
+    font-weight: bold;
+    font-size: 22px;
+}
